@@ -1,43 +1,31 @@
 ## 🛠️ Technologies Used
 
-### Frontend
+- C#
+- ASP.NET
+- ASP.NET Web Forms
+- WCF (Windows Communication Foundation)
+- ADO.NET
+- SQL Server
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- Visual Studio
 
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-* jQuery
+##  Features
 
-### Backend
-
-* C#
-* ASP.NET
-* ASP.NET Web Forms
-* WCF
-
-### Database
-
-* Microsoft SQL Server
-
-### Development Tools
-
-* Visual Studio
-* Git & GitHub
-
-### Key Features
-
-* User Registration & Login
-* Product Categories
-* Product Listing
-* Product Details
-* Shopping Cart
-* Order Management
-* Billing
-* Payment Integration
-* User Feedback
-* Admin Panel
-* Database Management
-* Session Management
-
-
+- User Registration and Login
+- Product Listing
+- Product Categories
+- Product Search
+- Shopping Cart
+- Order Management
+- Online Payment
+- User Feedback
+- Admin Panel
+- Product Management
+- Stock Management
+- Order Management
+- Database Management
 

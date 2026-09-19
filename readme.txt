@@ -1,14 +1,14 @@
-## Technologies Used
+## 🛠️ Technologies Used
 
 ### Frontend
 
-- HTML5
-- CSS3
-- Bootstrap
- -JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
 * jQuery
 
-## Backend
+### Backend
 
 * C#
 * ASP.NET
@@ -38,5 +38,6 @@
 * Admin Panel
 * Database Management
 * Session Management
+
 
 

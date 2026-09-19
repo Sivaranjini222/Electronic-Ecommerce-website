@@ -1,0 +1,39 @@
+/* ============================= */
+/* ELECTRONICS CAROUSEL */
+/* ============================= */
+
+.electronics-slider {
+    width: 100%;
+    height: 650px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.carousel-img {
+    width: 100%;
+    height: 650px;
+    object-fit: cover;
+}
+
+/* Navigation Buttons */
+
+.swiper-button-next,
+.swiper-button-prev {
+    color: white;
+    font-weight: bold;
+}
+
+/* Pagination */
+
+.swiper-pagination-bullet {
+    background: white;
+}
+
+/* Mobile Responsive */
+
+@media screen and (max-width: 768px) {
+    .electronics-slider,
+    .carousel-img {
+        height: 250px;
+    }
+}
